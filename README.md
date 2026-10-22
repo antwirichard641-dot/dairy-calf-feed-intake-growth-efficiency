@@ -78,6 +78,19 @@ These findings describe the available observations and should not be interpreted
 - Exploratory correlation analysis
 - Agricultural research data interpretation
 - Reproducible analysis with Google Colab and GitHub
+- ## Visual Results
+
+### Weekly Average Calf Body Weight
+![Weekly average calf body weight by treatment](figures/weekly_average_calf_weight.png)
+
+### Daily Grain Intake by Treatment
+![Daily grain intake by treatment](figures/daily_grain_intake_by_treatment.png)
+
+### Daily Hay Intake
+![Daily hay intake](figures/daily_hay_intake.png)
+
+### Daily TMR Intake by Treatment
+![Daily TMR intake by treatment](figures/daily_tmr_intake_by_treatment.png)
 
 ## Conclusion
 
