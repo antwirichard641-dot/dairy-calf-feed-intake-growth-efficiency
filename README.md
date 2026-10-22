@@ -84,3 +84,15 @@ These findings describe the available observations and should not be interpreted
 This project demonstrates how published animal science data can be organized and explored using Python. It identifies descriptive patterns in calf growth and feed intake while acknowledging data limitations and the importance of accounting for age and repeated measurements when interpreting relationships.
 
 The notebook documents the analysis workflow and provides a foundation for more advanced longitudinal modeling of animal growth and feed intake.
+## Exported Results
+
+### `feed_intake_weight_correlations.csv`
+
+This file contains the summary comparing feed intake and calf body weight correlations before and after adjusting for age.
+
+**Purpose:**
+- Summarizes the relationship between feed intake and body weight for grain, hay, and total mixed ration (TMR).
+- Compares the original correlations with age-adjusted correlations.
+- Records the sample sizes and statistical results produced by the analysis.
+
+**Important limitation:** These are exploratory correlations based on repeated observations from the same calves. They should not be interpreted as proof of causation or as definitive treatment effects.
